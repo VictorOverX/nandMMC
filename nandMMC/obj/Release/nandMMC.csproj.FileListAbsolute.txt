@@ -1,0 +1,8 @@
+C:\Users\Victor\Desktop\NandMMC V1.0\nandMMC_V1.0\src\nandMMC\bin\Release\nandMMC.exe
+C:\Users\Victor\Desktop\NandMMC V1.0\nandMMC_V1.0\src\nandMMC\obj\Release\nandMMC.csprojResolveAssemblyReference.cache
+C:\Users\Victor\Desktop\NandMMC V1.0\nandMMC_V1.0\src\nandMMC\obj\Release\nandMMC.Form1.resources
+C:\Users\Victor\Desktop\NandMMC V1.0\nandMMC_V1.0\src\nandMMC\obj\Release\nandMMC.Properties.Resources.resources
+C:\Users\Victor\Desktop\NandMMC V1.0\nandMMC_V1.0\src\nandMMC\obj\Release\nandMMC.SafeButton.resources
+C:\Users\Victor\Desktop\NandMMC V1.0\nandMMC_V1.0\src\nandMMC\obj\Release\nandMMC.SafeComboBox.resources
+C:\Users\Victor\Desktop\NandMMC V1.0\nandMMC_V1.0\src\nandMMC\obj\Release\nandMMC.csproj.GenerateResource.Cache
+C:\Users\Victor\Desktop\NandMMC V1.0\nandMMC_V1.0\src\nandMMC\obj\Release\nandMMC.exe
